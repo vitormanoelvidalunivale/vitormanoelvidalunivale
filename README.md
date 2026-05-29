@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Bem-vindo ao GitHub Institucional da Univale</h1>
 
 ###
@@ -95,3 +94,4 @@ Desenvolvimento acadêmico, organização tecnológica e inovação aplicada ao 
   Curso de Sistemas de Informação
 </p>
 ```
+
