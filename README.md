@@ -93,5 +93,5 @@ Desenvolvimento acadêmico, organização tecnológica e inovação aplicada ao 
   <strong>Univale — Universidade Vale do Rio Doce</strong><br>
   Curso de Sistemas de Informação
 </p>
-```
 
+---
