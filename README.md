@@ -3,7 +3,7 @@
 ###
 
 <h3 align="center">
-Repositório acadêmico institucional voltado ao acompanhamento, organização e registro do desenvolvimento do Sistema Escola de Esportes.
+Perfil institucional acadêmico voltado à apresentação, organização e acompanhamento das atividades relacionadas ao desenvolvimento do Sistema Escola de Esportes.
 </h3>
 
 ###
@@ -32,9 +32,9 @@ O objetivo deste GitHub é centralizar informações, arquivos e registros relac
 
 ## 🔒 Acesso Restrito
 
-Este projeto possui acesso restrito e é destinado exclusivamente ao acompanhamento acadêmico e institucional do desenvolvimento do **Sistema Escola de Esportes**.
+Este perfil institucional possui acesso restrito ao projeto **Sistema Escola de Esportes — Univale**, sendo destinado exclusivamente ao acompanhamento acadêmico, institucional e organizacional das atividades relacionadas ao desenvolvimento do sistema.
 
-O conteúdo presente neste ambiente deve ser utilizado apenas para fins de estudo, documentação, avaliação e gerenciamento interno do projeto, respeitando as orientações acadêmicas e institucionais da **Universidade Vale do Rio Doce — Univale**.
+As informações, registros e materiais vinculados a este ambiente devem ser utilizados apenas para fins de estudo, documentação, avaliação e gerenciamento interno do projeto, respeitando as orientações acadêmicas e institucionais da **Universidade Vale do Rio Doce — Univale**.
 
 ---
 
