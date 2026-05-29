@@ -40,7 +40,7 @@ O conteúdo presente neste ambiente deve ser utilizado apenas para fins de estud
 
 ## 📚 Finalidade Acadêmica
 
-Este repositório possui finalidade acadêmica e foi desenvolvido como parte das atividades do curso de **Sistemas de Informação da Univale**.
+Este perfil possui finalidade acadêmica e institucional, sendo destinado à apresentação, organização e acompanhamento das atividades relacionadas ao desenvolvimento do projeto Sistema Escola de Esportes, no contexto do curso de **Sistemas de Informação da Univale**.
 
 O projeto busca aplicar conceitos relacionados à organização de projetos, documentação técnica, versionamento, análise de requisitos, modelagem de dados e desenvolvimento de sistemas.
 
